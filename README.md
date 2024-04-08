@@ -7,7 +7,8 @@ This project analyzes Animal Service calls data in San Antonio using Python and 
 - 119,339 rows and 17 columns were anlayzed from public dataset.
 - Dataframe created to only include 2023.
 - Animal Calls were separated by district.
-- Calls were also separated by type of animal call..
+- Calls were also separated by type of animal call.
+- Map created to show type of animal related calls throughout the city. 
   
 ## Dataset
 The dataset used for this analysis contains information about Animal Service calls in San Antonio. It includes data such as call type, location, time, and animal-related details.
