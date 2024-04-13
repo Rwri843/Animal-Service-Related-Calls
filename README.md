@@ -2,7 +2,7 @@
 
 
 ## Overview:
-This project analyzes Animal Service calls data in San Antonio using Python and Jupyter Notebook. The analysis includes data wrangling using pandas and numpy, visualization with matplotlib and geopandas, and insights into animal-related service trends.
+This is a personal project that analyzes animal service calls data in San Antonio using Python and Jupyter Notebook. The analysis includes data wrangling using pandas and numpy, visualization with matplotlib and geopandas, and insights into animal-related service trends.
 
 - 119,339 rows and 17 columns were anlayzed from public dataset.
 - Dataframe created to only include 2023.
